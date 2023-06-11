@@ -1,3 +1,3 @@
-# Dingus.gay
+# shady.gg
 
-Dingus gay open source
+shady.gg website repo
